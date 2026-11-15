@@ -1,2 +1,2 @@
 # Mini-OS
-This is a base of a OS, it can directly render UTf-8
+This is a mini os that can handle or render HTML, CSS, in futuer updates we will implement V8 for JavaScript
